@@ -1,0 +1,31 @@
+
+ul{
+    float: right;
+}
+li{
+    background-color: cadetblue;
+}
+li a{
+    color: aliceblue;
+}
+h2{
+    color: cadetblue;
+}
+h6{
+    color: aliceblue; 
+}
+.footer{
+    background-color: cadetblue; 
+    text-align: center; 
+}
+.container{
+    background-color: antiquewhite
+
+}
+.card-body{
+    background-color: cadetblue;
+}
+img{
+    margin-left: px;
+
+}
